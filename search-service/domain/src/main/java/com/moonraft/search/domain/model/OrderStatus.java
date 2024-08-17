@@ -1,0 +1,21 @@
+package com.moonraft.search.domain.model;
+
+public enum OrderStatus {
+    CRAWL_STARTED,
+
+    CRAWL_COMPLETED,
+
+    VECTORIZATION_STARTED,
+
+    INDEXING_STARTED,
+
+    FINISHED_INDEXING,
+
+    ERROR_ENCOUNTERED,
+
+    CRAWL_TERMINATION_REQUESTED,
+
+    CRAWL_TERMINATED,
+
+    CRAWL_NOT_TERMINATED
+}

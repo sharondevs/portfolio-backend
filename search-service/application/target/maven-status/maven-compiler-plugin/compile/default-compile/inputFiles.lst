@@ -1,0 +1,8 @@
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/UserController.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/SearchController.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/request/CrawlRequest.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/mapper/InputOutputMapper.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/CrawlController.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/request/RegistrationRequest.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/controller/request/SearchRequest.java
+/Users/user/solution_poc/dx-aisearch/search-service/application/src/main/java/com/moonraft/search/application/SearchApplication.java

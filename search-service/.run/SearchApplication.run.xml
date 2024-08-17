@@ -1,0 +1,24 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SearchApplication" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="20" />
+    <envs>
+      <env name="ES_HOST" value="localhost" />
+      <env name="ES_LOGIN" value="elastic" />
+      <env name="ES_PASSWORD" value="elastic-admin" />
+      <env name="ES_PORT" value="9200" />
+      <env name="FASTAPI_HOST" value="localhost" />
+      <env name="FASTAPI_PORT" value="8000" />
+      <env name="JAVA_HOME" value="C:\Program Files\Java\jdk-20\bin" />
+      <env name="SQL_HOST" value="localhost" />
+      <env name="SQL_PASS" value="sql-admin" />
+      <env name="SQL_USER" value="admin" />
+      <env name="VECTORIZE_API" value="http://localhost:8000/" />
+      <env name="FRONT_END_DOMAIN" value="http://localhost:3000" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.moonraft.search.application.SearchApplication" />
+    <module name="search-service" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
